@@ -118,6 +118,6 @@ Through this project, I learned:
 
 ## 👤 Author
 
-[Your Name]
+Anugrah Deolia
 
 ---
