@@ -78,7 +78,7 @@ pm.globals.set("bookId", response[0].id);
 ```
 postman-api-testing-project/
 │
-├── SimpleBooksAPI.postman_collection.json
+├── Simple Book API.postman_collection.json
 ├── simple-books-api.md
 └── README.md
 ```
